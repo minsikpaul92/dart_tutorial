@@ -1,0 +1,2 @@
+[2026-05-05 15:39:57.858164 - errors] WARNING: HttpException: , uri = https://en.wikipedia.org/w/api.php?action=opensearch&format=json&search=xyzxyzxyzxyzxyz123456789notapage 
+[2026-05-05 15:39:57.861192 - errors] INFO: search: Search for Wikipedia articles. 
